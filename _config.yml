@@ -4,7 +4,7 @@ markdown: kramdown
 
 title:            Adam Thomas Cole
 tagline:          'Classical Composition'
-description:      'This is my description!'
+description:      'Classical Composition'
 url:              https://adamthomascole.github.io
 
 paginate:   5

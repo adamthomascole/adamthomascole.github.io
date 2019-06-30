@@ -1,6 +1,6 @@
 ---
 layout: category
-title: Performance
+title: Performances
 ---
 
 Sample category page for performances. You need to create a page for each category.

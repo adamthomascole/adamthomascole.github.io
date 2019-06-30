@@ -11,3 +11,6 @@ paginate:   5
 
 # Sidebar link settings
 sidebar_home_link:  true
+
+#added by IC
+sidebar_photo_url: '/images/adam_fancy_pants_300x480.png'

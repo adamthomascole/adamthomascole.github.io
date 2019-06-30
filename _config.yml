@@ -2,9 +2,11 @@
 remote_theme: fongandrew/hydeout
 markdown: kramdown
 
-title: Adam Thomas Cole
-tagline: 'Classical Composition'
+title:      Adam Thomas Cole
+tagline:    'Classical Composition'
+url:        https://adamthomascole.github.io
 
+paginate:   5
 
 # Sidebar link settings
 sidebar_home_link:  true
